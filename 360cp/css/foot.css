@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+.foot{ height:396px; background:#f1f1f1;}
+
+
+.foot .foot_left{ float:left;width:205px; height:153px; padding:35px 16px;}
+.foot .foot_left .er{ float:left;width:83px;height:83px;}
+.foot .foot_left .download{ float:left; padding-left:10px; height:83px; width:112px;}
+.foot .foot_left .download span{ display:block; height:27px; line-height:27px; }
+.foot .foot_left .download span a{ color:#d80000;}
+.foot .foot_left .download .imdown{ display:block; width:72px; line-height:32px;  color:#FFF; height:32px; background:#d93e3f; text-align:center;}
+
+.foot .erbottom{}
+.foot .erbottom p{ padding-top:5px;}
+.foot .itext{float: left;width: 130px;height: 28px;line-height: 27px;background:#FFF;border: 1px solid #D9D9D9;color: #999;}
+.foot .ibutton{float: left; width:67px;height: 32px;line-height: 27px;background:#FFF;border: 1px solid #D9D9D9;color: #999;}
+
+
+.foot .foot_right{ float:left; height:223px; width: 735px;}
+.foot .foot_right ul{ padding-left:70px; padding-top:35px;float:left; width:96px; overflow:hidden;}
+.foot .foot_right h4 { float:left; width:96px; font-size:14px; height:24px; line-height:24px; font-weight:normal; margin-bottom:10px; }
+.foot .foot_right li{font-size:12px; width:96px; line-height:18px;}
+
+.foot .foot_right .weibo{ padding-top:35px;padding-left:70px; width:155px; }
+.foot .foot_right h3{font-size:16px; height:24px; height:30px; line-height:24px;font-weight:normal; padding-bottom:10px; width:153px;}
+
+.foot .foot_right .weibo .img{ float:left;width:52px; height:52px;}
+.foot .foot_right a:hover{color:#D70000;}
+
+
+.foot .foot_right .weibo .img_right{ float:left; width:102px;}
+.foot .foot_right .weibo .img_right p{ line-height:24px; padding-left:8px;}
+
+.foot .foot_right .weibo .img_right a{ color:#000;}
+.foot .foot_right .weibo .img_right a:hover{color:#C70000;}
+
+
+
+.foot .foot_copy{ padding:35px 0 10px 0;}
+.foot .foot_copy a:hover{color:#D80000;}
+.foot .foot_copy p{ text-align:center; font-size:12px; padding-top:10px;}
+.foot .foot_copy .red{ color:#D80000;}
