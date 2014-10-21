@@ -1,0 +1,63 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+
+
+/*index*/
+
+/*main*/
+.middle{height:645px; }
+
+
+.mLeft{ width:200px; height:645px; background:url(../images/ulbg.gif) no-repeat; float:left;}
+.mm{ padding:0 7px 0 8px;;width:532px;height:645px; float:left;}
+.mRight{ width:233px; height:645px; float:left;}
+/*end main*/
+
+
+
+
+
+/*mleft*/
+.mLeft .leftAdd{height:33px;}
+.mLeft h3{color:#f58119; font-size:16px; height:26px;line-height:25px; text-indent:18px; line-height:26px; float:left; width:198px;}
+
+.mLeft .fir{}
+.mLeft li{float:left;width:66px;font-size:12px; text-align:center;}
+.mLeft .fir li{line-height:25px;}
+
+.mLeft .sec li{line-height:24px;}
+.mLeft .thir li{line-height:24px;}
+.mLeft .four li{line-height:27px;}
+/*mleft*/
+
+
+/*mm*/
+.mm .mmPic{width:532px;height:196px; position:relative;}
+
+.mm .fengShop{width:529px;height:395px;background:url(../images/feng.gif) no-repeat; padding-top:50px; padding-left:3px;}
+
+.mm .fengShop dl{ float:left;}
+.mm .fengShop dt{ width:174px; height:91px; line-height:91px; text-align:center; }
+.mm .fengShop img{border:1px solid #ccc;}
+.mm .fengShop dd{ width:174px; height:43px; font-size:14px; text-align:center;}
+
+.mm .mmPic .picNum{ position:absolute; left:25px; bottom:10px;}
+.mm .mmPic a{ padding:0 5px; background:#ccc; font-size:12px;}
+.mm .mmPic .active{ background:#ffda95;}
+.mm .mmPic a:hover{ background:#ffda95;}
+/*endmm*/
+
+
+
+
+.rightT{height:172px;}
+.rightTop{height:430px; background:url(../images/rightnew.png)  no-repeat;}
+.rightTop dl{ padding-left:10px; font-size:14px;}
+.rightTop dt,dd{float:left;}
+.rightTop dd{height:65px; line-height:50px; padding-left:10px;}
+.rightTop img{border:1px #b2b3b5 solid;}
+/*end index*/
+
+
+

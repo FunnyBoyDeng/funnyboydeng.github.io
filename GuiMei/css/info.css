@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+.middle{height:450px;}
+.middle h1{ text-align:center; font-size:16px;border-bottom: 1px solid #dddddd; height:40px; line-height:40px; width:980px;}
+.middle .info_left{float:left; width:350px; padding-right:35px;}
+.middle .info_right{float:left; width:333px; padding-right:35px;}
+
+.middle .info_left dl{height:350px;}
+
+.middle .info_left .bigPic{width:349px;height:292px;}
+.middle .info_left dd,dt{float:left;}
+.middle .info_left dt{ padding:15px 0 15px 0;}
+.middle .info_left dd{ width:63px;}
+.middle .info_left dd img{ border:2px solid #ddd;}
+.middle .info_left span{ padding-right:50px;}
+
+.middle .info_right li{font-size:12px; border-bottom:1px dashed #ddd; line-height:32px; height:32px;}
+.middle .info_right .fli{width:166px; float:left;}
+
+
+.middle .info_right .buynow{ border:none; height:44px; padding:15px 0 10px 0;}
+
+
+
+.middle .info_right .onlinebuy{ border:1px solid #ddcf8f; line-height:16px; background:url(../images/onlinepay.gif) no-repeat 5px 8px #ffffed;padding: 5px 0 3px 76px; }
+
+.middle .info_right .onlinebuy a:hover{color:#ff7300;}

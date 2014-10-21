@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+.middle{height:500px;}
+.middle .reg{background:url(../images/reg_bg.gif) no-repeat; padding-top:65px; width:980px; font-size:12px;}
+.middle .reg .tdText{ height:37px; width:147px; text-align:right;}
+.middle .reg .tdInput{ height:37px; width:500px;}
+.middle .reg .tdInput input{ border:1px solid #ccc;}
